@@ -1,0 +1,331 @@
+Cuisine,Dish name,Dish,taste,temperature,spice level,sweet level,salt level,sour level,bitter level
+Chinese,panneer manchurian,Panneer Manchurian,Spicy,Hot,6,2,4,3,1
+Italian,lasagna,Lasagna,Spicy,Hot,5,2,6,2,1
+Indian,masala dosa,Masala Dosa,Spicy,Hot,5,2,3,1,1
+American,pizza,pizza,Salty,Hot,4,1,5,,
+American,cheesecake,Cheesecake,Sweet,Cold,1,5,,,
+American,burger and pizza,Burger and pizza,Spicy,Hot,4,,,,
+Indian,masala dose,Masala dose,Spicy,Hot,5,,,,
+Indian,kaju masala with naan,Kaju Masala with Naan,Spicy,Hot,6,,,,
+Indian,ragi ball,Ragi ball,Spicy,Hot,2,,,,
+Indian,veg biriyani,Veg Biriyani,Spicy,Hot,6,,,,
+Indian,dosa,Dosa,Spicy,Hot,3,,,,
+American,fries,Fries,Salty,Hot,3,,4,,
+Chinese,chicken momos,Chicken Momos,Spicy,Hot,7,,,,
+American,cheese nachos,Cheese Nachos,Salty,Cold,3,,5,,
+Indian,ghee roast chicken ,Ghee roast chicken ,Spicy,Hot,7,1,4,1,1
+Indian,paneer butter masala ,Paneer butter masala ,Spicy,Hot,7,,,,
+Korean,kimchi Ramen,Kimchi,Spicy,Cold,6,,,,
+Indian,chicken biryani ,Chicken Biryani ,Spicy,Hot,7,,,,
+Indian,rasmalai,Rasmalai,Sweet,Cold,1,9,,,
+Italian,pesto pasta,Pesto Pasta,Spicy,Hot,4,,,,
+Indian,shahi paneer,Shahi Paneer,Sweet,Hot,2,4,,,
+Indian,Chilli paneer,Paneer tikka,Spicy,Hot,6,,,,
+Indian,ghee dosa,Ghee Dosa,Salty,Hot,3,,4,,
+American,bacon,Bacon,Salty,Hot,3,,6,,
+Indian,idly,Idly,Sour,Hot,0,,,3,
+Italian,risotto,Risotto,Spicy,Hot,7,,,,
+Chinese,momos,Momos,Spicy,Hot,7,,,,
+Korean,ramyun,Ramyun,Spicy,Hot,6,,,,
+Indian,gnocchi,Gnocchi,Spicy,Hot,6,,,,
+Italian,gelato,Gelato,Sweet,Cold,1,8,,,
+Indian,misal pav,Misal Pav,Spicy,Hot,6,,,,
+Italian,parma ham,Parma Ham,Salty,Cold,4,,6,,
+Korean,korean ramen,Korean Ramen,Spicy,Hot,6,,,,
+Indian,naan and dal tadka,Naan and dal tadka,Spicy,Hot,5,,,,
+Italian,ribollita,Ribollita,Spicy,Hot,3,,,,
+Indian,pani puri,Pani Puri,Spicy,Cold,5,,,,
+American,cookies,Cookies,Sweet,Hot,0,7,,,
+Chinese,gobi noodles mix,Gobi Noodles Mix,Spicy,Hot,7,,,,
+American,hot dog,Hot Dog,Spicy,Hot,4,,,,
+Chinese,dim sums,Dim Sums,Spicy,Hot,7,,,,
+Korean,kimbap,Kimbap,Sweet,Cold,4,5,,,
+Chinese,szechwan chilli chicken,Szechwan Chilli Chicken,Spicy,Hot,8,,,,
+Chinese,spring rolls,Spring rolls,Salty,Hot,5,,6,,
+Italian,pizza,Pizza,Spicy,Hot,4,,,,
+Chinese,stir fried tofu,Stir fried Tofu,Spicy,Hot,5,,,,
+Chinese,honey chilli potato,Honey Chilli Potato,Spicy,Hot,7,,,,
+Chinese,peri peri chicken satay,Peri Peri Chicken Satay,Spicy,Hot,8,,,,
+Chinese,cantonese chicken soup,Cantonese Chicken Soup,Spicy,Hot,7,,,,
+American,death by chocolate ice cream,Death by Chocolate ice cream,Sweet,Cold,1,8,,,
+Indian,rasgulla,Rasgulla,Sweet,Cold,1,9,,,
+Indian,tea,Tea,Bitter,Hot,2,5,,,5
+Indian,masala dosa,Masala Dosa,Spicy,Hot,4,,,,
+Indian,vada,Vada,Spicy,Hot,3,,,,
+Indian,pakoda,Pakoda,Salty,Hot,3,,6,,
+Indian,pav bhaji,Pav Bhaji,Spicy,Hot,6,,,,
+Indian,carrot halwa,Carrot Halwa,Sweet,Cold,1,8,,,
+Indian,gulab jamun,Gulab Jamun,Sweet,Cold,1,9,,,
+Indian,rasamalai,Rasamalai,Sweet,Cold,1,9,,,
+Indian,jalebi,Jalebi,Sweet,Hot,1,9,,,
+Indian,kaju katli,Kaju katli,Sweet,Cold,1,9,,,
+Indian,chicken 65,Chicken 65,Spicy,Hot,6,0,,,
+American,fresh southern peach cobbler,Fresh Southern Peach Cobbler,Sweet,Cold,1,6,,,
+American,mcveggie burger,McVeggie Burger,Salty,Hot,3,,6,,
+Indian,amul icecream,Amul Icecream,Sweet,Cold,1,8,1,,
+American,bananas foster,Bananas Foster,Sweet,Cold,1,7,1,,
+American,pastry,Pastry,Sweet,Cold,1,7,1,,
+American,pecan pie,Pecan Pie,Sweet,Cold,1,7,1,,
+American,texas sheet cake,Texas Sheet Cake,Sweet,Cold,1,7,1,,
+American,watergate salad,Watergate Salad,Sweet,Cold,1,6,1,,
+American,fresh baked cherry pie,Fresh baked cherry Pie,Sweet,Cold,1,6,1,,
+American,banana pudding,Banana Pudding,Sweet,Cold,1,6,1,,
+American,lemon bars,Lemon Bars,Sweet,Cold,1,6,1,,
+Indian,chicken tikka,Chicken Tikka,Spicy,Hot,7,,,,
+Korean,khao suey,Khao suey,Spicy,Hot,5,,,,
+Indian,chiken kadai,Chiken Kadai,Spicy,Hot,6,,,,
+Italian,pasta,Pasta,Salty,Hot,4,,5,,
+Indian,indian,Indian,Spicy,Hot,0,,,,
+Indian,chicken hyderabadi ,Chicken Hyderabadi ,Spicy,Hot,7,,,,
+Indian,kofta balls,kofta balls,Spicy,Hot,6,1,3,1,1
+Indian,tomato dal with rice,Tomato Dal with Rice,Spicy,Hot,4,,,,
+Indian,bisi bele bath,Bisi bele bath,Spicy,Hot,5,,,,
+Chinese,gobi manchurian ,Gobi Manchurian ,Spicy,Hot,7,,,,
+Indian,kaaju katli,Kaaju katli,Sweet,Cold,1,9,,,
+American,chocolate sandwich ,Chocolate sandwich ,Sweet,Hot,1,7,,,
+Indian,masala puri,Masala puri,Spicy,Hot,6,,,,
+Indian,north indian thali ,North Indian thali ,Spicy,Hot,6,,,,
+Indian,chicken biryani,Chicken biryani,Spicy,Hot,7,,,,
+Indian,chole bature,Chole Bature,Spicy,Hot,6,,,,
+Indian,biryani,Biryani,Spicy,Hot,7,,,,
+Indian,chaat ,Chaat ,Spicy,Hot,4,,,,
+Italian,spaghetti,Spaghetti,Spicy,Hot,3,,,,
+Indian,biriyani,Biriyani,Spicy,Hot,6,,,,
+American,sambar rice ,Sambar rice ,Spicy,Hot,5,2,,,
+Indian,tomato chutney with dosa,Tomato chutney with dosa,Spicy,Hot,4,,,,
+Indian,idly sambar,idly sambar,Spicy,Hot,4,,,,
+Indian,biriyani,Biriyani,Spicy,Hot,7,,,,
+Italian,pasta,Pasta,Spicy,Hot,4,,,,
+Indian,chicken chettinad ,Chicken Chettinad ,Spicy,Hot,7,,,,
+Indian,palak paneer,Palak Paneer,Spicy,Hot,6,,,,
+Italian,lasagna,Lasagna,Salty,Hot,4,,6,,
+Chinese,hakka noodles,Hakka Noodles,Spicy,Hot,6,,,,
+Chinese,peking duck,Peking Duck,Spicy,Hot,3,,,,
+American,burger,Burger,Spicy,Hot,3,,,,
+Korean,kimchi,Kimchi,Sour,Cold,3,,,4,
+Indian,karela ka bharta,Karela ka Bharta,Bitter,Cold,3,,,,5
+Italian,ravioli,Ravioli,Salty,Hot,3,,4,,
+Chinese,cockroach manchurian,Cockroach Manchurian,Salty,Hot,4,,4,,
+American,nachos,Nachos,Salty,Cold,2,,4,,
+Korean,jjajangmyeon,Jjajangmyeon,Spicy,Hot,5,,,,
+Indian,vada pav,Vada Pav,Spicy,Hot,6,,,,
+Indian,sev puri,Sev Puri,Spicy,Hot,5,,,,
+Indian,khichdi,Khichdi,Salty,Hot,4,,3,,
+Indian,mooti choor laddoo,Mooti choor laddoo,Sweet,Cold,1,9,,,
+Indian,kunda,Kunda,Sweet,Cold,1,8,,,
+Indian,pedha,Pedha,Sweet,Cold,1,8,,,
+Indian,biriyani ,Biriyani ,Spicy,Hot,6,,,,
+American,hamburger,Hamburger,Salty,Hot,4,,4,,
+Indian,pani puri,pani puri,Sour,Cold,6,,4,6,
+Indian,chicken biriyani,chicken biriyani,Spicy,Hot,7,,,,
+Indian,gulab jamun,Gulab Jamun,Sweet,Hot,1,8,2,,
+Indian,payasam,Payasam,Sweet,Hot,2,7,2,,
+Indian,kesari,Kesari,Sweet,Hot,1,7,2,,
+Indian,halwa,Halwa,Sweet,Cold,1,9,1,,
+Indian,Khatta Dhokla,Khatta Dhokla,Sour,Hot,5,1,,7,
+Indian,pithore kadhi,Pithore Kadhi,Sour,Hot,4,1,,8,
+Indian,green garlic chutney,Green Garlic Chutney,Sour,Cold,7,,,8,
+Indian,bharwa karela,Bharwa Karela,Bitter,Hot,4,,,,9
+Indian ,Methichi Usal,Methichi Usal,Bitter,Hot,7,,,,7
+Indian,dried fish, dried fish,Salty,Hot,6,,7,,
+Indian,papad,papad,Salty,Hot,6,,6,,
+American,popcorn,popcorn,Salty,Hot,4,,8,,
+Japanese,ramen,Ramen,Sweet,Hot,2,2,,,4
+Korean,bulgogi,Bulgogi,Bitter,Hot,6,5,2,,1
+Korean,kimchi,Kimchi,Spicy,Cold,5,1,5,5,
+Indian,butter chicken,Butter Chicken,Salty,Hot,7,,5,,1
+Indian,samosa,Samosa,Spicy,Cold,5,5,,3,
+Thai,tom yum soup,Tom Yum Soup,Sweet,Cold,4,8,,3,1
+Italian,pasta,Pasta,Sour,Hot,7,,,6,
+Indian,samosa,Samosa,Spicy,Cold,4,,5,3,
+Indian,paneer tikka,Paneer Tikka,Sour,Hot,3,5,,2,2
+French,croissant,Croissant,Sweet,Cold,10,5,2,3,3
+French,coq au vin,Coq au Vin,Spicy,Hot,4,5,2,,4
+American,burger,Burger,Sweet,Hot,1,9,1,,5
+Thai,mango sticky rice,Mango Sticky Rice,Sweet,Cold,1,2,2,5,2
+Mexican,churros,Churros,Bitter,Cold,6,,1,,2
+Italian,risotto,Risotto,Bitter,Cold,5,,2,1,10
+French,croissant,Croissant,Salty,Hot,1,,5,1,
+American,fried chicken,Fried Chicken,Spicy,Hot,5,,3,5,4
+Mediterranean,falafel,Falafel,Spicy,Cold,4,5,2,,5
+Indian,paneer tikka,Paneer Tikka,Spicy,Cold,2,4,4,1,3
+Indian,dhokla,Dhokla,Salty,Hot,1,2,9,3,4
+French,baguette,Baguette,Spicy,Hot,6,,1,1,1
+Italian,bruschetta,Bruschetta,Sweet,Hot,4,3,5,5,2
+Thai,green curry,Green Curry,Sweet,Hot,1,1,5,,
+Chinese,dim sum,Dim Sum,Spicy,Cold,2,5,,,3
+Indian,butter chicken,Butter Chicken,Salty,Hot,5,5,4,,5
+Chinese,sweet and sour pork,Sweet and Sour Pork,Bitter,Cold,5,3,2,5,10
+Chinese,mapo tofu,Mapo Tofu,Sweet,Cold,7,8,5,3,4
+Mexican,tacos,Tacos,Sweet,Hot,10,4,,,
+Japanese,tempura,Tempura,Sour,Cold,9,,,2,1
+Italian,tiramisu,Tiramisu,Sweet,Cold,3,2,1,3,
+American,bbq ribs,BBQ Ribs,Salty,Hot,7,,5,5,1
+Korean,japchae,Japchae,Bitter,Cold,5,,2,,10
+Mexican,quesadilla,Quesadilla,Salty,Cold,8,1,5,,
+Indian,paneer tikka,Paneer Tikka,Sour,Cold,10,5,,2,1
+Mexican,guacamole,Guacamole,Sweet,Hot,1,3,1,2,1
+French,coq au vin,Coq au Vin,Spicy,Hot,3,,3,,3
+Korean,kimchi,Kimchi,Bitter,Cold,3,1,,,4
+Italian,risotto,Risotto,Sweet,Hot,5,3,,5,5
+Korean,tteokbokki,Tteokbokki,Spicy,Hot,1,,1,5,4
+Italian,pizza,Pizza,Salty,Cold,2,5,5,,2
+French,ratatouille,Ratatouille,Sweet,Hot,2,4,4,5,3
+Mediterranean,gyro,Gyro,Salty,Cold,7,1,1,5,1
+Korean,bibimbap,Bibimbap,Spicy,Cold,5,,,5,
+French,baguette,Baguette,Sweet,Cold,3,8,,,5
+French,croissant,Croissant,Salty,Cold,6,4,4,,2
+Korean,bibimbap,Bibimbap,Spicy,Hot,1,4,5,,
+Mediterranean,hummus,Hummus,Spicy,Cold,2,,5,1,
+Thai,green curry,Green Curry,Spicy,Hot,6,,4,,2
+Indian,dhokla,Dhokla,Salty,Cold,6,4,10,2,
+Korean,tteokbokki,Tteokbokki,Spicy,Cold,1,,4,5,4
+Indian,butter chicken,Butter Chicken,Sweet,Cold,10,1,,,
+Indian,biryani,Biryani,Spicy,Hot,7,,2,4,2
+Mediterranean,moussaka,Moussaka,Spicy,Hot,6,,1,,
+Thai,green curry,Green Curry,Sour,Cold,9,5,,8,4
+Mexican,burrito,Burrito,Spicy,Cold,2,2,5,,5
+French,baguette,Baguette,Sour,Hot,3,,,3,2
+American,hot dog,Hot Dog,Sour,Cold,8,3,3,5,
+Korean,bibimbap,Bibimbap,Salty,Hot,8,2,2,,3
+American,burger,Burger,Spicy,Cold,9,,,2,
+American,bbq ribs,BBQ Ribs,Sweet,Hot,2,7,4,,4
+Mediterranean,gyro,Gyro,Bitter,Cold,7,,2,,6
+Mediterranean,hummus,Hummus,Spicy,Hot,10,5,2,3,
+American,fried chicken,Fried Chicken,Bitter,Hot,1,2,,,4
+Indian,biryani,Biryani,Spicy,Cold,8,5,4,,2
+Italian,pasta,Pasta,Spicy,Hot,9,,,,
+Japanese,okonomiyaki,Okonomiyaki,Sour,Hot,9,,1,8,
+Thai,som tam,Som Tam,Sweet,Hot,4,9,,5,
+French,coq au vin,Coq au Vin,Sweet,Cold,4,1,,,3
+Mediterranean,gyro,Gyro,Salty,Cold,3,5,9,4,3
+French,Spicy,Coq au Vin,Spicy,Cold,10,2,,,
+French,ratatouille,Ratatouille,Spicy,Cold,4,1,5,,
+Indian,paneer tikka,Paneer Tikka,Spicy,Hot,6,1,5,,3
+French,coq au vin,Coq au Vin,Spicy,Hot,3,3,2,,2
+Korean,tteokbokki,Tteokbokki,Spicy,Hot,7,,,,3
+Thai,mango sticky rice,Mango Sticky Rice,Sweet,Cold,5,4,3,2,5
+Mediterranean,falafel,Falafel,Spicy,Cold,1,1,,5,4
+Thai,green curry,Green Curry,Spicy,Cold,8,,4,,4
+Italian,pizza,Pizza,Bitter,Hot,3,4,,,6
+Indian,dhokla,Dhokla,Sour,Cold,6,2,3,7,3
+Italian,tiramisu,Tiramisu,Sour,Cold,4,1,3,10,1
+Mexican,quesadilla,Quesadilla,Sour,Cold,5,,4,3,4
+Chinese,sweet and sour pork,Sweet and Sour Pork,Salty,Cold,9,,8,,
+French,ratatouille,Ratatouille,Salty,Hot,3,,6,1,2
+American,burger,Burger,Bitter,Hot,7,4,5,2,8
+French,crème brûlée,Crème Brûlée,Sweet,Hot,1,10,1,2,
+Mediterranean,hummus,Hummus,Salty,Hot,6,,7,,3
+Korean,tteokbokki,Tteokbokki,Spicy,Cold,4,5,1,,4
+American,fried chicken,Fried Chicken,Sweet,Cold,1,2,,,2
+Mediterranean,moussaka,Moussaka,Bitter,Cold,10,,,3,8
+Korean,bibimbap,Bibimbap,Bitter,Cold,1,,,,1
+Korean,kimchi,Kimchi,Sour,Hot,8,,5,10,
+Korean,bulgogi,Bulgogi,Sweet,Hot,1,1,,2,
+Mexican,churros,Churros,Salty,Cold,3,,,1,
+Korean,tteokbokki,Tteokbokki,Salty,Cold,7,,7,3,2
+French,crème brûlée,Crème Brûlée,Sour,Cold,6,3,3,10,
+Mediterranean,falafel,Falafel,Bitter,Cold,3,3,4,,7
+Chinese,sweet and sour pork,Sweet and Sour Pork,Salty,Cold,5,4,2,3,4
+Indian,paneer tikka,Paneer Tikka,Sweet,Cold,6,6,,,4
+French,ratatouille,Ratatouille,Spicy,Cold,2,1,,2,
+Indian,biryani,Biryani,Sweet,Cold,3,4,,1,4
+Japanese,sushi,Sushi,Sweet,Hot,9,4,,2,
+French,croissant,Croissant,Salty,Cold,2,,2,1,1
+Thai,tom yum soup,Tom Yum Soup,Sweet,Cold,1,10,1,,3
+American,burger,Burger,Sour,Hot,3,2,1,5,
+Chinese,spring roll,Spring Roll,Spicy,Hot,9,,,4,3
+Mexican,churros,Churros,Bitter,Cold,10,3,2,2,4
+Italian,risotto,Risotto,Sour,Hot,10,,2,5,
+Mediterranean,hummus,Hummus,Spicy,Hot,8,4,,3,5
+Thai,som tam,Som Tam,Sour,Cold,10,,,,4
+Chinese,mapo tofu,Mapo Tofu,Salty,Hot,9,,6,,5
+Japanese,miso soup,Miso Soup,Spicy,Hot,7,,5,4,1
+Mexican,tacos,Tacos,Spicy,Cold,3,,1,,
+Korean,bibimbap,Bibimbap,Spicy,Hot,6,4,4,,
+Italian,bruschetta,Bruschetta,Spicy,Cold,1,,,3,5
+French,crème brûlée,Crème Brûlée,Sweet,Hot,4,4,,2,5
+French,crème brûlée,Crème Brûlée,Sweet,Cold,7,7,,1,
+Korean,japchae,Japchae,Spicy,Hot,1,4,1,4,3
+Indian,paneer tikka,Paneer Tikka,Salty,Cold,1,4,1,,
+Chinese,dim sum,Dim Sum,Spicy,Hot,5,5,4,,
+American,bbq ribs,BBQ Ribs,Sour,Cold,9,2,5,1,
+Japanese,tempura,Tempura,Spicy,Hot,10,,,,
+Indian,biryani,Biryani,Spicy,Cold,1,2,3,2,
+Japanese,sushi,Sushi,Spicy,Hot,7,,,,
+French,croissant,Croissant,Salty,Cold,9,4,7,,2
+Mediterranean,moussaka,Moussaka,Salty,Cold,7,,1,,
+Japanese,tempura,Tempura,Sour,Hot,7,,5,6,2
+Chinese,sweet and sour pork,Sweet and Sour Pork,Sweet,Cold,8,4,,1,2
+Mexican,burrito,Burrito,Spicy,Hot,1,,,1,
+Italian,bruschetta,Bruschetta,Sour,Cold,8,,4,4,1
+American,fried chicken,Fried Chicken,Sour,Cold,9,1,2,5,3
+Korean,tteokbokki,Tteokbokki,Bitter,Hot,7,,3,,2
+French,baguette,Baguette,Salty,Hot,9,,8,2,
+Thai,pad thai,Pad Thai,Bitter,Hot,4,5,,4,5
+American,mac and cheese,Mac and Cheese,Sour,Cold,4,,3,1,
+Japanese,miso soup,Miso Soup,Sour,Hot,7,,1,8,5
+Mexican,burrito,Burrito,Salty,Cold,5,5,9,4,
+Japanese,okonomiyaki,Okonomiyaki,Spicy,Hot,7,1,,5,3
+Chinese,kung pao chicken,Kung Pao Chicken,Sweet,Hot,6,10,,,
+Italian,pizza,Pizza,Spicy,Cold,2,,1,1,
+Thai,tom yum soup,Tom Yum Soup,Salty,Hot,6,,2,2,4
+Italian,risotto,Risotto,Sour,Hot,10,5,,2,
+Mediterranean,gyro,Gyro,Sour,Hot,10,,,9,5
+French,crème brûlée,Crème Brûlée,Sour,Hot,4,,,5,
+Mexican,tacos,Tacos,Sour,Cold,9,,,7,1
+Mexican,tacos,Tacos,Sweet,Hot,6,6,5,4,
+Japanese,ramen,Ramen,Sweet,Hot,5,8,,4,
+Indian,butter chicken,Butter Chicken,Salty,Hot,3,,5,,
+Italian,risotto,Risotto,Spicy,Cold,2,,,,
+Chinese,mapo tofu,Mapo Tofu,Sour,Cold,6,1,,2,5
+Chinese,kung pao chicken,Kung Pao Chicken,Spicy,Cold,7,,,3,3
+Chinese,mapo tofu,Mapo Tofu,Spicy,Hot,6,,4,,
+French,baguette,Baguette,Salty,Cold,6,4,2,,
+Indian,biryani,Biryani,Sweet,Hot,2,3,,2,1
+Chinese,sweet and sour pork,Sweet and Sour Pork,Salty,Hot,4,4,10,,5
+Chinese,sweet and sour pork,Pork Dumpling,Salty,Hot,5,,5,,
+Japanese,sushi,Sushi,Spicy,Cold,5,4,,,
+Japanese,tempura,Tempura,Sour,Hot,3,1,2,3,4
+American,bbq ribs,BBQ Ribs,Spicy,Hot,9,2,5,1,
+Chinese,dim sum,Dim Sum,Bitter,Cold,8,,5,3,6
+Mexican,tacos,Tacos,Bitter,Cold,9,,5,,4
+Italian,bruschetta,Bruschetta,Bitter,Hot,9,,5,2,8
+Thai,tom yum soup,Tom Yum Soup,Sour,Hot,7,,2,,2
+Thai,som tam,Som Tam,Sour,Cold,2,2,5,5,
+Mexican,quesadilla,Quesadilla,Salty,Cold,9,3,6,4,5
+Chinese,sweet and sour pork,Sweet and Sour Pork,Sweet,Cold,5,10,,,2
+Italian,tiramisu,Tiramisu,Sweet,Hot,4,,4,,
+Mediterranean,baklava,Baklava,Sweet,Hot,2,,1,,3
+American,bbq ribs,BBQ Ribs,Spicy,Cold,4,,,3,4
+Japanese,sushi,Sushi,Bitter,Cold,4,,,2,5
+American,fried chicken,Fried Chicken,Sweet,Cold,9,1,1,,
+Japanese,sushi,Sushi,Salty,Cold,9,,7,5,3
+French,coq au vin,Coq au Vin,Sweet,Hot,2,9,,2,2
+Chinese,sweet and sour pork,Sweet and Sour Pork,Spicy,Cold,2,5,,,4
+Thai,green curry,Curry,Spicy,Cold,1,4,,4,2
+Japanese,sushi,Sushi,Salty,Cold,9,4,3,,
+Indian,butter chicken,Butter Chicken,Salty,Hot,5,3,2,5,2
+Japanese,sushi,Sushi,Sour,Cold,7,,2,3,
+French,baguette,Baguette,Bitter,Cold,6,3,5,5,9
+Mediterranean,falafel,Falafel,Sour,Hot,6,5,,3,5
+American,mac and cheese,Mac and Cheese,Salty,Cold,9,2,1,3,
+Italian,pasta,Pasta,Sour,Hot,5,,,1,5
+Korean,bibimbap,Bibimbap,Spicy,Hot,6,2,,,
+Mexican,churros,Churros,Sweet,Cold,8,10,2,1,
+Mexican,tacos,Tacos,Spicy,Cold,4,,,2,
+Mediterranean,hummus,Hummus,Bitter,Hot,8,4,4,4,4
+Korean,tteokbokki,Tteokbokki,Spicy,Cold,7,,5,,3
+Italian,pasta,Pasta,Spicy,Cold,7,5,3,3,
+American,burger,Burger,Spicy,Cold,3,4,,5,1
+Mexican,tacos,Tacos,Sweet,Cold,3,6,4,1,3
+Japanese,sushi,Sushi,Sweet,Cold,2,6,,,
+Italian,tiramisu,Tiramisu,Sweet,Hot,3,4,,,
+Mediterranean,gyro,Gyro,Bitter,Cold,5,,1,,4
+Indian,Katchori,Katchori,Sweet,Cold,8,7,5,,5
+Korean,kimchi,Kimchi,Spicy,Cold,1,1,,,
+Chinese,sweet and sour pork,Sweet and Sour Pork,Sour,Hot,10,2,1,6,2
+American,fried chicken,Fried Chicken,Sour,Hot,7,3,5,6,1
+Mediterranean,hummus,Falafel,Sour,Cold,4,,3,4,
+Korean,japchae,Japchae,Sweet,Hot,9,2,2,,
+Mexican,quesadilla,Quesadilla,Bitter,Cold,5,,5,,4
