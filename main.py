@@ -80,7 +80,7 @@ sour_var = tk.IntVar()
 bitter_var = tk.IntVar()
 
 cuisines = ["Indian", "Chinese", "American"]
-tastes = ["Sweet", "Sour", "Bitter"]
+tastes = ["Sweet", "Sour", "Bitter","Spicy","Salty"]
 temperatures = ["Hot", "Cold"]
 
 tk.Label(root, text="Cuisine:").pack()
